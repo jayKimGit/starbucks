@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "parcel index.html",
+    "dev2": "parcel C:\\Big.Dough\\WebstormProjects\\js_starbucks\\signin\\index.html",
     "build": "parcel build index.html"
   },
   "keywords": [],
