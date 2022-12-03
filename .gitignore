@@ -1,4 +1,4 @@
-package.json
+#package.json
 package-lock.json
 .parcel-cache/
 node_modules/
